@@ -56,7 +56,7 @@
       <pre><code>cd theme-clock</code></pre>
     </li>
    <li>Start the app: <br>
-  Open "<i><b>index.html</b></i>" in your browser.</li>
+  Open <code>index.html</code> in your browser.</li>
   </ol>
 </p>
 
