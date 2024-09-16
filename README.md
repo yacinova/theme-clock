@@ -55,9 +55,8 @@
     <li>Navigate to the project directory:
       <pre><code>cd theme-clock</code></pre>
     </li>
-    <li>Start the app:
-      Open <u><b>index.html</b></u> in your browser.
-    </li>
+   <li>Start the app: <br>
+  Open "<i><b>index.html</b></i>" in your browser.</li>
   </ol>
 </p>
 
